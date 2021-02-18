@@ -35,6 +35,9 @@ documents and resources regarding operating systems
 - https://www.sigops.org/
 - http://csl.snu.ac.kr/courses/4190.568/2020-2/2-systems.pdf
 - https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf
+- https://littleosbook.github.io/
+- freebsd internals mckusick
+- QNX
 
 ```
 Chapter 9 - Main Memory
