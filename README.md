@@ -38,6 +38,10 @@ documents and resources regarding operating systems
 - https://littleosbook.github.io/
 - freebsd internals mckusick
 - QNX
+- http://people.csail.mit.edu/saltzer/CTSS/CTSS-Documents/CTSS-Documents.html
+- http://people.csail.mit.edu/saltzer/Multics/Multics-Documents/Multics-Documents.html
+- http://people.csail.mit.edu/saltzer/Multics/MHP-Saltzer-060508/
+- http://web.mit.edu/afs/net/user/srz/www/multics.html
 
 ```
 Chapter 9 - Main Memory
