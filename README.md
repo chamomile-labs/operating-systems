@@ -166,3 +166,7 @@ then you should follow these steps
 	● Learn how to avoid common programming errors,
 	such a buffer overruns
 ```
+* special purpose operating systems:
+	+ [freeRTOS](https://en.wikipedia.org/wiki/FreeRTOS)
+	+ [rockbox](https://en.wikipedia.org/wiki/Rockbox)
+	+ [genode](https://en.wikipedia.org/wiki/Genode)
