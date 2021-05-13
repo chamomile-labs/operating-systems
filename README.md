@@ -42,6 +42,8 @@ documents and resources regarding operating systems
 - http://people.csail.mit.edu/saltzer/Multics/Multics-Documents/Multics-Documents.html
 - http://people.csail.mit.edu/saltzer/Multics/MHP-Saltzer-060508/
 - http://web.mit.edu/afs/net/user/srz/www/multics.html
+- http://tunes.org/
+- oberon
 
 ```
 Chapter 9 - Main Memory
