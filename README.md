@@ -45,6 +45,10 @@ documents and resources regarding operating systems
 - http://tunes.org/
 - oberon
 
+https://www.gnu.org/software/hurd/hurd-talk.html
+
+---
+
 ```
 Chapter 9 - Main Memory
 	- Contiguous Memory Allocation, Paging, Structure of the Page Table, Swapping
