@@ -47,6 +47,8 @@ documents and resources regarding operating systems
 
 https://www.gnu.org/software/hurd/hurd-talk.html
 
+- https://en.wikipedia.org/wiki/Project_Genie, ITS, CTSS, TENEX, TOPS-20, MULTICS
+
 ---
 
 ```
