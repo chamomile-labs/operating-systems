@@ -178,3 +178,5 @@ then you should follow these steps
 	+ [freeRTOS](https://en.wikipedia.org/wiki/FreeRTOS)
 	+ [rockbox](https://en.wikipedia.org/wiki/Rockbox)
 	+ [genode](https://en.wikipedia.org/wiki/Genode)
+
+https://www.peerllc.com/peer-to-peer-books/operating-system-source-code-secrets/
